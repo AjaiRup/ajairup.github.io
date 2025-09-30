@@ -122,14 +122,14 @@
     {
       "title": "Lab Directive Independent Research and Development (IRAD)",
       "awarder": "Georgia Tech Research Institute",
-      "date": "2025-01-01",
+      "date": "2025-2026",
       "summary": "In collaboration with the School of Cybersecurity and Privacy, developing novel metrics to quantify the vulnerability of Binarized Neural Networks (BNNs) to model extraction attacks.",
       "value": 25000
     },
     {
       "title": "Early Career Funding for Independent Research and Development (IRAD)",
       "awarder": "Georgia Tech Research Institute",
-      "date": "2024-01-01",
+      "date": "2024-2025",
       "summary": "Investigated feasibility of reconstructing private text from public embeddings by developing and assessing an embedding inversion attack model.",
       "value": 25000
     }
@@ -138,7 +138,7 @@
     {
       "name": "Binary Malware Attribution using LLM Embeddings and Topological Data Analysis",
       "publisher": "Conference on Applied Machine Learning in Information Security (CAMLIS)",
-      "releaseDate": "2024-01-01",
+      "releaseDate": "2024",
       "url": "https://ceur-ws.org/Vol-3920/paper14.pdf",
       "summary": "Peer-reviewed paper applying LLM embeddings and TDA to binary malware attribution."
     }
