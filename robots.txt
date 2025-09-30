@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ajairuparelia.github.io/sitemap.xml
+Sitemap: https://ajairup.github.io/sitemap.xml
