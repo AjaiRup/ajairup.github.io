@@ -25,8 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Here’s a version with your requested addition, polished for clarity and flow, and including links in a natural way:
-
----
-
 Hi, I’m Ajai Ruparelia, a Computer Science PhD student at the Georgia Institute of Technology and a Research Scientist at the Georgia Tech Research Institute. My PhD research is in the [Cyber-Physical Security (CPSec) Lab](https://sites.gatech.edu/capcpsec/) in the [School of Cybersecurity and Privacy (SCP)](https://scp.cc.gatech.edu/), advised by [Prof. Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz). At GTRI, I work in the Cybersecurity, Information Protection, and Hardware Evaluation Research (CIPHER) Lab. My current research focuses on AI security, however, I am also interested in Geometric Deep Learning (GDL) and AI for Science.
