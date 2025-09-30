@@ -27,7 +27,7 @@ layout: default
 
   <article>
     <div class="cv">
-      {% assign allowed = "basics,education,work,funding,publications" | split: "," %}
+      {% assign allowed = 'basics,education,work,funding,publications' | split: ',' %}
 
       {% for data in site.data.resume %}
         {% if site.jsonresume and site.jsonresume.size > 0 %}
