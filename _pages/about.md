@@ -2,8 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS PhD Student at Georgia Tech
-subtitle: Research Scientist at Georgia Tech Research Institute
+subtitle:
+  - CS PhD Student at Georgia Tech
+  - Research Scientist at Georgia Tech Research Institute
 
 profile:
   align: right
