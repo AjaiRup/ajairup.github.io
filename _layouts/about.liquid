@@ -11,7 +11,9 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
-    <p class="desc">{{ page.subtitle }}</p>
+    {% for subtitle_item in page.subtitle %}
+      <p class="desc">{{ subtitle_item }}</p>
+    {% endfor %}
   </header>
 
   <article>
