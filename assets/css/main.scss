@@ -23,3 +23,11 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.subtitle-item {
+  margin-bottom: 0.2em; /* Adjust this value for more or less space */
+}
+
+.post-header .subtitle-item:last-of-type {
+  margin-bottom: 1em; /* Adjust space after the last subtitle */
+}
